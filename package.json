@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^5.0.2",
-    "font-awesome": "^5.13.0",
+    "font-awesome": "^4.7.0",
     "joi-browser": "^13.4.0",
     "lodash": "^4.17.15",
     "prop-types": "^15.6.2",
